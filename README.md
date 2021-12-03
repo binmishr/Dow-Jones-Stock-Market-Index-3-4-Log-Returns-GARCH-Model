@@ -1,0 +1,1 @@
+# Dow-Jones-Stock-Market-Index-3-4-Log-Returns-GARCH-Model
